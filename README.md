@@ -46,3 +46,11 @@ Tests can be ran using the standard go command in the project directory:
 ```
 go test
 ```
+
+### Contact
+
+If you find a problem in the code, feel free to submit an issue or pull request.
+
+If you'd like to get in contact, you can do so at:
+
+xrmon **at** pm **dot** me
