@@ -49,7 +49,7 @@ go test
 
 ### Contact
 
-If you find a problem in the code, feel free to submit an issue or pull request.
+If you find a problem in the code or want to improve it, feel free to submit an issue or pull request.
 
 If you'd like to get in contact, you can do so at:
 
