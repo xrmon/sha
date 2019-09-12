@@ -12,7 +12,7 @@ import "github.com/xrmon/sha"
 Then run the command:
 
 ```
-go get https://github.com/xrmon/sha
+go get github.com/xrmon/sha
 ```
 
 The five algorithms can be accessed with the following functions:
